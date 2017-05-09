@@ -1,0 +1,9 @@
+staging:
+  host: web.mottasistemi.it
+  user: burdadmin
+  port: 51234
+  identity_file:
+    public_key:  /Users/cami/chiavi/authorized_keys.pub
+    private_key: /Users/cami/chiavi/id_rsa
+    password:    multiplehands!
+  deploy_path: /var/www/vhosts/burdastyle.com
